@@ -16,8 +16,8 @@
         "issue" : "",
         "ruling" : "",
         "significance" : "",
-        "correlation" : "hello",
-        "details": "Pretty",
+        "correlation" : "",
+        "details": "",
         "children": 
         [
             {
@@ -364,7 +364,7 @@
             "ruling" : "",
             "significance" : "",
             "correlation" : "",
-            "details": "hi",
+            "details": "",
             "children": 
             [
                 {
