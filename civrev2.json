@@ -31,7 +31,118 @@
                     "details": "",
                     "children": 
                     [
-                    
+                        {
+                            "name": "Definition",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": 
+                            [
+                            
+                        ]
+                        },
+                        {
+                            "name": "Essential Elements of Obligation",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": 
+                            [
+                            
+                        ]
+                        },
+                        {
+                            "name": "Sources of Obligations",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": 
+                            [
+                                {
+                                    "name": "Ex Lege",
+                                    "url" : "",
+                                    "facts" : "",
+                                    "issue" : "",
+                                    "ruling" : "",
+                                    "significance" : "",
+                                    "correlation" : "",
+                                    "details": "",
+                                    "children": 
+                                    [
+                                    
+                                ]
+                                },
+                                {
+                                    "name": "Ex Contractu",
+                                    "url" : "",
+                                    "facts" : "",
+                                    "issue" : "",
+                                    "ruling" : "",
+                                    "significance" : "",
+                                    "correlation" : "",
+                                    "details": "",
+                                    "children": 
+                                    [
+                                    
+                                ]
+                                },
+                                {
+                                    "name": "Ex Quasi Contractu",
+                                    "url" : "",
+                                    "facts" : "",
+                                    "issue" : "",
+                                    "ruling" : "",
+                                    "significance" : "",
+                                    "correlation" : "",
+                                    "details": "",
+                                    "children": 
+                                    [
+                                    
+                                ]
+                                },
+                                {
+                                    "name": "Ex Delicto",
+                                    "url" : "",
+                                    "facts" : "",
+                                    "issue" : "",
+                                    "ruling" : "",
+                                    "significance" : "",
+                                    "correlation" : "",
+                                    "details": "",
+                                    "children": 
+                                    [
+                                    
+                                ]
+                                },
+                                {
+                                    "name": "Ex Cuasi Delito",
+                                    "url" : "",
+                                    "facts" : "",
+                                    "issue" : "",
+                                    "ruling" : "",
+                                    "significance" : "",
+                                    "correlation" : "",
+                                    "details": "",
+                                    "children": 
+                                    [
+                                    
+                                ]
+                                }                                                                
+                                                                                                                    
+                        ]
+                        }                                                                    
                 ]
                 },
                 {
@@ -45,7 +156,104 @@
                     "details": "",
                     "children": 
                     [
-                    
+                        {
+                            "name": "Civil and Natural Obligations",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": 
+                            [
+                            
+                        ]
+                        },
+                        {
+                            "name": "Real and Personal Obligations",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": 
+                            [
+                            
+                        ]
+                        },
+                        {
+                            "name": "Pure, Conditional, and Obligations with a Period",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": 
+                            [
+                            
+                        ]
+                        },
+                        {
+                            "name": "Alternative and Facultative Obligations",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": 
+                            [
+                            
+                        ]
+                        },
+                        {
+                            "name": "Joint and Solidary Obligations",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": 
+                            [
+                            
+                        ]
+                        },
+                        {
+                            "name": "Divisible and Indivisible Obligations",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": 
+                            [
+                            
+                        ]
+                        },
+                        {
+                            "name": "Obligations with a Penal Clause",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": 
+                            [
+                            
+                        ]
+                        }                                                                                                                                                                    
                 ]
                 },
                 {
@@ -59,7 +267,90 @@
                     "details": "",
                     "children": 
                     [
-                    
+                        {
+                            "name": "Payment or Performance",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": 
+                            [
+                            
+                        ]
+                        },
+                        {
+                            "name": "Loss of the Thing Due and Impossibility of Performance",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": 
+                            [
+                            
+                        ]
+                        },
+                        {
+                            "name": "Condonation and Remission of Debt",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": 
+                            [
+                            
+                        ]
+                        },
+                        {
+                            "name": "Confusion and Merger of Rights",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": 
+                            [
+                            
+                        ]
+                        },
+                        {
+                            "name": "Compensation",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": 
+                            [
+                            
+                        ]
+                        },
+                        {
+                            "name": "Novation",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": 
+                            [
+                            
+                        ]
+                        }                                                                                                                                            
                 ]
                 }                          
                 
@@ -171,7 +462,63 @@
                     "details": "",
                     "children": 
                     [
-                    
+                        {
+                            "name": "Rescissible Contracts",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": 
+                            [
+                            
+                        ]
+                        },
+                        {
+                            "name": "Voidable Contracts",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": 
+                            [
+                            
+                        ]
+                        },
+                        {
+                            "name": "Unenforceable Contracts",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": 
+                            [
+                            
+                        ]
+                        },
+                        {
+                            "name": "Void or Inexistent",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": 
+                            [
+                            
+                        ]
+                        }                                                                        
+                                            
                 ]
                 }                                                                                                            
         ]
