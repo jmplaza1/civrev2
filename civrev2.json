@@ -32,7 +32,7 @@
                     "children": 
                     [
                         {
-                            "name": "Definition",
+                            "name": "Definitions",
                             "url" : "",
                             "facts" : "",
                             "issue" : "",
@@ -42,7 +42,36 @@
                             "details": "",
                             "children": 
                             [
-                            
+                                {
+                                    "name": "Art. 1156",
+                                    "url" : "",
+                                    "facts" : "",
+                                    "issue" : "",
+                                    "ruling" : "",
+                                    "significance" : "",
+                                    "correlation" : "",
+                                    "details": "Obligation is the juridical necessity to give, to do or not to do. It is also defined as a juridical relation whereby a person (creditor) may demand from another (debtor) the observance of a determinate conduct, and in case of breach may obtain satisfaction from the assets of the latter.",
+                                    "children": 
+                                    [
+                                    
+                                ]
+                                },
+                                {
+                                    "name": "Makati Stock Exchange v. Campos",
+                                    "url" : "",
+                                    "facts" : "",
+                                    "issue" : "",
+                                    "ruling" : "",
+                                    "significance" : "",
+                                    "correlation" : "",
+                                    "details": "A juridical relation whereby a person (creditor) may demand from another (debtor) the observance of a determinate conduct, and in case of breach may obtain satisfaction from the assets of the latter.",
+                                    "children": 
+                                    [
+                                    
+                                ]
+                                }
+
+                    
                         ]
                         },
                         {
@@ -378,7 +407,47 @@
                     "details": "",
                     "children": 
                     [
-                    
+                        {
+                            "name": "Definitions",
+                            "url" : "",
+                            "facts" : "",
+                            "issue" : "",
+                            "ruling" : "",
+                            "significance" : "",
+                            "correlation" : "",
+                            "details": "",
+                            "children": 
+                            [
+                                {
+                                    "name": "Art. 1305",
+                                    "url" : "",
+                                    "facts" : "",
+                                    "issue" : "",
+                                    "ruling" : "",
+                                    "significance" : "",
+                                    "correlation" : "",
+                                    "details": "A contract is a meeting of the minds between two persons whereby one binds himself, with respect to the other, to give something or to render some service.",
+                                    "children": 
+                                    [
+                                    
+                                ]
+                                },
+                                {
+                                    "name": "Sanchez Roman in Jardine Davis v. CA",
+                                    "url" : "",
+                                    "facts" : "",
+                                    "issue" : "",
+                                    "ruling" : "",
+                                    "significance" : "",
+                                    "correlation" : "",
+                                    "details": "A juridical convention manifested in legal form, by virtue of which, one or more persons bind themselves in favor of another or others, or reciprocally, to the fulfillment of a prestation to give, to do, or not to do.",
+                                    "children": 
+                                    [
+                                    
+                                ]
+                                }                                
+                        ]
+                        }
                 ]
                 },
                 {
