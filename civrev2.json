@@ -1,596 +1,1019 @@
 {
-"name": "Civ Rev 2",
-"url" : "",
-"facts" : "",
-"issue" : "",
-"ruling" : "",
-"significance" : "",
-"correlation" : "",
-"details": "",
-"children": 
-[
-    {
-        "name": "Part I: Obligations",
-        "url" : "",
-        "facts" : "",
-        "issue" : "",
-        "ruling" : "",
-        "significance" : "",
-        "correlation" : "",
-        "details": "",
-        "children": 
-        [
-            {
+    "name": "Civ Rev 2",
+    "url": "",
+    "facts": "",
+    "issue": "",
+    "ruling": "",
+    "significance": "",
+    "enum1": "",
+    "enum2": "",
+    "enum3": "",
+    "enum4": "",
+    "enum5": "",
+    "enum6": "",
+    "enum7": "",
+    "enum8": "",
+    "enum1": "",
+    "enum2": "",
+    "enum3": "",
+    "enum4": "",
+    "enum5": "",
+    "enum6": "",
+    "enum7": "",
+    "enum8": "",
+    "correlation": "",
+    "details": "",
+    "children": [
+        {
+            "name": "Part I: Obligations",
+            "url": "",
+            "facts": "",
+            "issue": "",
+            "ruling": "",
+            "significance": "",
+            "enum1": "",
+            "enum2": "",
+            "enum3": "",
+            "enum4": "",
+            "enum5": "",
+            "enum6": "",
+            "enum7": "",
+            "enum8": "",
+            "correlation": "",
+            "details": "",
+            "children": [
+                {
                     "name": "Definition and Sources",
-                    "url" : "",
-                    "facts" : "",
-                    "issue" : "",
-                    "ruling" : "",
-                    "significance" : "",
-                    "correlation" : "",
+                    "url": "",
+                    "facts": "",
+                    "issue": "",
+                    "ruling": "",
+                    "significance": "",
+                    "enum1": "",
+                    "enum2": "",
+                    "enum3": "",
+                    "enum4": "",
+                    "enum5": "",
+                    "enum6": "",
+                    "enum7": "",
+                    "enum8": "",
+                    "correlation": "",
                     "details": "",
-                    "children": 
-                    [
+                    "children": [
                         {
                             "name": "Definitions",
-                            "url" : "",
-                            "facts" : "",
-                            "issue" : "",
-                            "ruling" : "",
-                            "significance" : "",
-                            "correlation" : "",
+                            "url": "",
+                            "facts": "",
+                            "issue": "",
+                            "ruling": "",
+                            "significance": "",
+                            "enum1": "",
+                            "enum2": "",
+                            "enum3": "",
+                            "enum4": "",
+                            "enum5": "",
+                            "enum6": "",
+                            "enum7": "",
+                            "enum8": "",
+                            "correlation": "",
                             "details": "",
-                            "children": 
-                            [
+                            "children": [
                                 {
                                     "name": "Art. 1156",
-                                    "url" : "",
-                                    "facts" : "",
-                                    "issue" : "",
-                                    "ruling" : "",
-                                    "significance" : "",
-                                    "correlation" : "",
+                                    "url": "",
+                                    "facts": "",
+                                    "issue": "",
+                                    "ruling": "",
+                                    "significance": "",
+                                    "enum1": "",
+                                    "enum2": "",
+                                    "enum3": "",
+                                    "enum4": "",
+                                    "enum5": "",
+                                    "enum6": "",
+                                    "enum7": "",
+                                    "enum8": "",
+                                    "correlation": "",
                                     "details": "Obligation is the juridical necessity to give, to do or not to do. It is also defined as a juridical relation whereby a person (creditor) may demand from another (debtor) the observance of a determinate conduct, and in case of breach may obtain satisfaction from the assets of the latter.",
-                                    "children": 
-                                    [
-                                    
-                                ]
+                                    "children": []
                                 },
                                 {
                                     "name": "Makati Stock Exchange v. Campos",
-                                    "url" : "",
-                                    "facts" : "",
-                                    "issue" : "",
-                                    "ruling" : "",
-                                    "significance" : "",
-                                    "correlation" : "",
+                                    "url": "",
+                                    "facts": "",
+                                    "issue": "",
+                                    "ruling": "",
+                                    "significance": "",
+                                    "enum1": "",
+                                    "enum2": "",
+                                    "enum3": "",
+                                    "enum4": "",
+                                    "enum5": "",
+                                    "enum6": "",
+                                    "enum7": "",
+                                    "enum8": "",
+                                    "correlation": "",
                                     "details": "A juridical relation whereby a person (creditor) may demand from another (debtor) the observance of a determinate conduct, and in case of breach may obtain satisfaction from the assets of the latter.",
-                                    "children": 
-                                    [
-                                    
-                                ]
+                                    "children": []
                                 }
-
-                    
-                        ]
+                            ]
                         },
                         {
                             "name": "Essential Elements of Obligation",
-                            "url" : "",
-                            "facts" : "",
-                            "issue" : "",
-                            "ruling" : "",
-                            "significance" : "",
-                            "correlation" : "",
+                            "url": "",
+                            "facts": "",
+                            "issue": "",
+                            "ruling": "",
+                            "significance": "",
+                            "enum1": "",
+                            "enum2": "",
+                            "enum3": "",
+                            "enum4": "",
+                            "enum5": "",
+                            "enum6": "",
+                            "enum7": "",
+                            "enum8": "",
+                            "correlation": "",
                             "details": "",
-                            "children": 
-                            [
-                            
-                        ]
+                            "children": []
                         },
                         {
                             "name": "Sources of Obligations",
-                            "url" : "",
-                            "facts" : "",
-                            "issue" : "",
-                            "ruling" : "",
-                            "significance" : "",
-                            "correlation" : "",
+                            "url": "",
+                            "facts": "",
+                            "issue": "",
+                            "ruling": "",
+                            "significance": "",
+                            "enum1": "",
+                            "enum2": "",
+                            "enum3": "",
+                            "enum4": "",
+                            "enum5": "",
+                            "enum6": "",
+                            "enum7": "",
+                            "enum8": "",
+                            "correlation": "",
                             "details": "",
-                            "children": 
-                            [
+                            "children": [
                                 {
                                     "name": "Ex Lege",
-                                    "url" : "",
-                                    "facts" : "",
-                                    "issue" : "",
-                                    "ruling" : "",
-                                    "significance" : "",
-                                    "correlation" : "",
+                                    "url": "",
+                                    "facts": "",
+                                    "issue": "",
+                                    "ruling": "",
+                                    "significance": "",
+                                    "enum1": "",
+                                    "enum2": "",
+                                    "enum3": "",
+                                    "enum4": "",
+                                    "enum5": "",
+                                    "enum6": "",
+                                    "enum7": "",
+                                    "enum8": "",
+                                    "correlation": "",
                                     "details": "",
-                                    "children": 
-                                    [
-                                    
-                                ]
+                                    "children": []
                                 },
                                 {
                                     "name": "Ex Contractu",
-                                    "url" : "",
-                                    "facts" : "",
-                                    "issue" : "",
-                                    "ruling" : "",
-                                    "significance" : "",
-                                    "correlation" : "",
+                                    "url": "",
+                                    "facts": "",
+                                    "issue": "",
+                                    "ruling": "",
+                                    "significance": "",
+                                    "enum1": "",
+                                    "enum2": "",
+                                    "enum3": "",
+                                    "enum4": "",
+                                    "enum5": "",
+                                    "enum6": "",
+                                    "enum7": "",
+                                    "enum8": "",
+                                    "correlation": "",
                                     "details": "",
-                                    "children": 
-                                    [
-                                    
-                                ]
+                                    "children": []
                                 },
                                 {
                                     "name": "Ex Quasi Contractu",
-                                    "url" : "",
-                                    "facts" : "",
-                                    "issue" : "",
-                                    "ruling" : "",
-                                    "significance" : "",
-                                    "correlation" : "",
+                                    "url": "",
+                                    "facts": "",
+                                    "issue": "",
+                                    "ruling": "",
+                                    "significance": "",
+                                    "enum1": "",
+                                    "enum2": "",
+                                    "enum3": "",
+                                    "enum4": "",
+                                    "enum5": "",
+                                    "enum6": "",
+                                    "enum7": "",
+                                    "enum8": "",
+                                    "correlation": "",
                                     "details": "",
-                                    "children": 
-                                    [
-                                    
-                                ]
+                                    "children": [
+                                        {
+                                            "name": "Negotiorum gestio",
+                                            "url": "",
+                                            "facts": "",
+                                            "issue": "",
+                                            "ruling": "",
+                                            "significance": "",
+                                            "enum1": "",
+                                            "enum2": "",
+                                            "enum3": "",
+                                            "enum4": "",
+                                            "enum5": "",
+                                            "enum6": "",
+                                            "enum7": "",
+                                            "enum8": "",
+                                            "correlation": "",
+                                            "details": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Solutio Indebiti",
+                                            "url": "",
+                                            "facts": "",
+                                            "issue": "",
+                                            "ruling": "",
+                                            "significance": "",
+                                            "enum1": "",
+                                            "enum2": "",
+                                            "enum3": "",
+                                            "enum4": "",
+                                            "enum5": "",
+                                            "enum6": "",
+                                            "enum7": "",
+                                            "enum8": "",
+                                            "correlation": "",
+                                            "details": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Other Forms of Quasi-Contracts",
+                                            "url": "",
+                                            "facts": "",
+                                            "issue": "",
+                                            "ruling": "",
+                                            "significance": "",
+                                            "enum1": "",
+                                            "enum2": "",
+                                            "enum3": "",
+                                            "enum4": "",
+                                            "enum5": "",
+                                            "enum6": "",
+                                            "enum7": "",
+                                            "enum8": "",
+                                            "correlation": "",
+                                            "details": "",
+                                            "children": [
+                                                {
+                                                    "name": "Support and funeral expenses",
+                                                    "url": "",
+                                                    "facts": "",
+                                                    "issue": "",
+                                                    "ruling": "",
+                                                    "significance": "",
+                                                    "enum1": "",
+                                                    "enum2": "",
+                                                    "enum3": "",
+                                                    "enum4": "",
+                                                    "enum5": "",
+                                                    "enum6": "",
+                                                    "enum7": "",
+                                                    "enum8": "",
+                                                    "correlation": "",
+                                                    "details": "",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "name": "Accident and calamities",
+                                                    "url": "",
+                                                    "facts": "",
+                                                    "issue": "",
+                                                    "ruling": "",
+                                                    "significance": "",
+                                                    "enum1": "",
+                                                    "enum2": "",
+                                                    "enum3": "",
+                                                    "enum4": "",
+                                                    "enum5": "",
+                                                    "enum6": "",
+                                                    "enum7": "",
+                                                    "enum8": "",
+                                                    "correlation": "",
+                                                    "details": "",
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 },
                                 {
                                     "name": "Ex Delicto",
-                                    "url" : "",
-                                    "facts" : "",
-                                    "issue" : "",
-                                    "ruling" : "",
-                                    "significance" : "",
-                                    "correlation" : "",
+                                    "url": "",
+                                    "facts": "",
+                                    "issue": "",
+                                    "ruling": "",
+                                    "significance": "",
+                                    "enum1": "",
+                                    "enum2": "",
+                                    "enum3": "",
+                                    "enum4": "",
+                                    "enum5": "",
+                                    "enum6": "",
+                                    "enum7": "",
+                                    "enum8": "",
+                                    "correlation": "",
                                     "details": "",
-                                    "children": 
-                                    [
-                                    
-                                ]
+                                    "children": [
+                                        {
+                                            "name": "Effect of Acquittal",
+                                            "url": "",
+                                            "facts": "",
+                                            "issue": "",
+                                            "ruling": "",
+                                            "significance": "",
+                                            "enum1": "",
+                                            "enum2": "",
+                                            "enum3": "",
+                                            "enum4": "",
+                                            "enum5": "",
+                                            "enum6": "",
+                                            "enum7": "",
+                                            "enum8": "",
+                                            "correlation": "",
+                                            "details": "",
+                                            "children": []
+                                        },
+                                        {
+                                            "name": "Effect of Death of the Accused",
+                                            "url": "",
+                                            "facts": "",
+                                            "issue": "",
+                                            "ruling": "",
+                                            "significance": "",
+                                            "enum1": "",
+                                            "enum2": "",
+                                            "enum3": "",
+                                            "enum4": "",
+                                            "enum5": "",
+                                            "enum6": "",
+                                            "enum7": "",
+                                            "enum8": "",
+                                            "correlation": "",
+                                            "details": "Obligation is the juridical necessity to give, to do or not to do. It is also defined as a juridical relation whereby a person (creditor) may demand from another (debtor) the observance of a determinate conduct, and in case of breach may obtain satisfaction from the assets of the latter.",
+                                            "children": []
+                                        }
+                                    ]
                                 },
                                 {
                                     "name": "Ex Cuasi Delito",
-                                    "url" : "",
-                                    "facts" : "",
-                                    "issue" : "",
-                                    "ruling" : "",
-                                    "significance" : "",
-                                    "correlation" : "",
+                                    "url": "",
+                                    "facts": "",
+                                    "issue": "",
+                                    "ruling": "",
+                                    "significance": "",
+                                    "enum1": "",
+                                    "enum2": "",
+                                    "enum3": "",
+                                    "enum4": "",
+                                    "enum5": "",
+                                    "enum6": "",
+                                    "enum7": "",
+                                    "enum8": "",
+                                    "correlation": "",
                                     "details": "",
-                                    "children": 
-                                    [
-                                    
-                                ]
-                                }                                                                
-                                                                                                                    
-                        ]
-                        }                                                                    
-                ]
+                                    "children": [
+                                        {
+                                            "name": "Requisites for Recovery",
+                                            "url": "",
+                                            "facts": "",
+                                            "issue": "",
+                                            "ruling": "",
+                                            "significance": "",
+                                            "enum1": "",
+                                            "enum2": "",
+                                            "enum3": "",
+                                            "enum4": "",
+                                            "enum5": "",
+                                            "enum6": "",
+                                            "enum7": "",
+                                            "enum8": "",
+                                            "correlation": "",
+                                            "details": "",
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
                     "name": "Kinds of Obligations",
-                    "url" : "",
-                    "facts" : "",
-                    "issue" : "",
-                    "ruling" : "",
-                    "significance" : "",
-                    "correlation" : "",
+                    "url": "",
+                    "facts": "",
+                    "issue": "",
+                    "ruling": "",
+                    "significance": "",
+                    "enum1": "",
+                    "enum2": "",
+                    "enum3": "",
+                    "enum4": "",
+                    "enum5": "",
+                    "enum6": "",
+                    "enum7": "",
+                    "enum8": "",
+                    "correlation": "",
                     "details": "",
-                    "children": 
-                    [
+                    "children": [
                         {
                             "name": "Civil and Natural Obligations",
-                            "url" : "",
-                            "facts" : "",
-                            "issue" : "",
-                            "ruling" : "",
-                            "significance" : "",
-                            "correlation" : "",
+                            "url": "",
+                            "facts": "",
+                            "issue": "",
+                            "ruling": "",
+                            "significance": "",
+                            "enum1": "",
+                            "enum2": "",
+                            "enum3": "",
+                            "enum4": "",
+                            "enum5": "",
+                            "enum6": "",
+                            "enum7": "",
+                            "enum8": "",
+                            "correlation": "",
                             "details": "",
-                            "children": 
-                            [
-                            
-                        ]
+                            "children": []
                         },
                         {
                             "name": "Real and Personal Obligations",
-                            "url" : "",
-                            "facts" : "",
-                            "issue" : "",
-                            "ruling" : "",
-                            "significance" : "",
-                            "correlation" : "",
+                            "url": "",
+                            "facts": "",
+                            "issue": "",
+                            "ruling": "",
+                            "significance": "",
+                            "enum1": "",
+                            "enum2": "",
+                            "enum3": "",
+                            "enum4": "",
+                            "enum5": "",
+                            "enum6": "",
+                            "enum7": "",
+                            "enum8": "",
+                            "correlation": "",
                             "details": "",
-                            "children": 
-                            [
-                            
-                        ]
+                            "children": []
                         },
                         {
                             "name": "Pure, Conditional, and Obligations with a Period",
-                            "url" : "",
-                            "facts" : "",
-                            "issue" : "",
-                            "ruling" : "",
-                            "significance" : "",
-                            "correlation" : "",
+                            "url": "",
+                            "facts": "",
+                            "issue": "",
+                            "ruling": "",
+                            "significance": "",
+                            "enum1": "",
+                            "enum2": "",
+                            "enum3": "",
+                            "enum4": "",
+                            "enum5": "",
+                            "enum6": "",
+                            "enum7": "",
+                            "enum8": "",
+                            "correlation": "",
                             "details": "",
-                            "children": 
-                            [
-                            
-                        ]
+                            "children": []
                         },
                         {
                             "name": "Alternative and Facultative Obligations",
-                            "url" : "",
-                            "facts" : "",
-                            "issue" : "",
-                            "ruling" : "",
-                            "significance" : "",
-                            "correlation" : "",
+                            "url": "",
+                            "facts": "",
+                            "issue": "",
+                            "ruling": "",
+                            "significance": "",
+                            "enum1": "",
+                            "enum2": "",
+                            "enum3": "",
+                            "enum4": "",
+                            "enum5": "",
+                            "enum6": "",
+                            "enum7": "",
+                            "enum8": "",
+                            "correlation": "",
                             "details": "",
-                            "children": 
-                            [
-                            
-                        ]
+                            "children": []
                         },
                         {
                             "name": "Joint and Solidary Obligations",
-                            "url" : "",
-                            "facts" : "",
-                            "issue" : "",
-                            "ruling" : "",
-                            "significance" : "",
-                            "correlation" : "",
+                            "url": "",
+                            "facts": "",
+                            "issue": "",
+                            "ruling": "",
+                            "significance": "",
+                            "enum1": "",
+                            "enum2": "",
+                            "enum3": "",
+                            "enum4": "",
+                            "enum5": "",
+                            "enum6": "",
+                            "enum7": "",
+                            "enum8": "",
+                            "correlation": "",
                             "details": "",
-                            "children": 
-                            [
-                            
-                        ]
+                            "children": []
                         },
                         {
                             "name": "Divisible and Indivisible Obligations",
-                            "url" : "",
-                            "facts" : "",
-                            "issue" : "",
-                            "ruling" : "",
-                            "significance" : "",
-                            "correlation" : "",
+                            "url": "",
+                            "facts": "",
+                            "issue": "",
+                            "ruling": "",
+                            "significance": "",
+                            "enum1": "",
+                            "enum2": "",
+                            "enum3": "",
+                            "enum4": "",
+                            "enum5": "",
+                            "enum6": "",
+                            "enum7": "",
+                            "enum8": "",
+                            "correlation": "",
                             "details": "",
-                            "children": 
-                            [
-                            
-                        ]
+                            "children": []
                         },
                         {
                             "name": "Obligations with a Penal Clause",
-                            "url" : "",
-                            "facts" : "",
-                            "issue" : "",
-                            "ruling" : "",
-                            "significance" : "",
-                            "correlation" : "",
+                            "url": "",
+                            "facts": "",
+                            "issue": "",
+                            "ruling": "",
+                            "significance": "",
+                            "enum1": "",
+                            "enum2": "",
+                            "enum3": "",
+                            "enum4": "",
+                            "enum5": "",
+                            "enum6": "",
+                            "enum7": "",
+                            "enum8": "",
+                            "correlation": "",
                             "details": "",
-                            "children": 
-                            [
-                            
-                        ]
-                        }                                                                                                                                                                    
-                ]
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Breach of Obligations",
+                    "url": "",
+                    "facts": "",
+                    "issue": "",
+                    "ruling": "",
+                    "significance": "",
+                    "enum1": "",
+                    "enum2": "",
+                    "enum3": "",
+                    "enum4": "",
+                    "enum5": "",
+                    "enum6": "",
+                    "enum7": "",
+                    "enum8": "",
+                    "correlation": "",
+                    "details": "",
+                    "children": []
                 },
                 {
                     "name": "Extinguishment of Obligations",
-                    "url" : "",
-                    "facts" : "",
-                    "issue" : "",
-                    "ruling" : "",
-                    "significance" : "",
-                    "correlation" : "",
+                    "url": "",
+                    "facts": "",
+                    "issue": "",
+                    "ruling": "",
+                    "significance": "",
+                    "enum1": "",
+                    "enum2": "",
+                    "enum3": "",
+                    "enum4": "",
+                    "enum5": "",
+                    "enum6": "",
+                    "enum7": "",
+                    "enum8": "",
+                    "correlation": "",
                     "details": "",
-                    "children": 
-                    [
+                    "children": [
                         {
                             "name": "Payment or Performance",
-                            "url" : "",
-                            "facts" : "",
-                            "issue" : "",
-                            "ruling" : "",
-                            "significance" : "",
-                            "correlation" : "",
+                            "url": "",
+                            "facts": "",
+                            "issue": "",
+                            "ruling": "",
+                            "significance": "",
+                            "enum1": "",
+                            "enum2": "",
+                            "enum3": "",
+                            "enum4": "",
+                            "enum5": "",
+                            "enum6": "",
+                            "enum7": "",
+                            "enum8": "",
+                            "correlation": "",
                             "details": "",
-                            "children": 
-                            [
-                            
-                        ]
+                            "children": []
                         },
                         {
                             "name": "Loss of the Thing Due and Impossibility of Performance",
-                            "url" : "",
-                            "facts" : "",
-                            "issue" : "",
-                            "ruling" : "",
-                            "significance" : "",
-                            "correlation" : "",
+                            "url": "",
+                            "facts": "",
+                            "issue": "",
+                            "ruling": "",
+                            "significance": "",
+                            "enum1": "",
+                            "enum2": "",
+                            "enum3": "",
+                            "enum4": "",
+                            "enum5": "",
+                            "enum6": "",
+                            "enum7": "",
+                            "enum8": "",
+                            "correlation": "",
                             "details": "",
-                            "children": 
-                            [
-                            
-                        ]
+                            "children": []
                         },
                         {
                             "name": "Condonation and Remission of Debt",
-                            "url" : "",
-                            "facts" : "",
-                            "issue" : "",
-                            "ruling" : "",
-                            "significance" : "",
-                            "correlation" : "",
+                            "url": "",
+                            "facts": "",
+                            "issue": "",
+                            "ruling": "",
+                            "significance": "",
+                            "enum1": "",
+                            "enum2": "",
+                            "enum3": "",
+                            "enum4": "",
+                            "enum5": "",
+                            "enum6": "",
+                            "enum7": "",
+                            "enum8": "",
+                            "correlation": "",
                             "details": "",
-                            "children": 
-                            [
-                            
-                        ]
+                            "children": []
                         },
                         {
                             "name": "Confusion and Merger of Rights",
-                            "url" : "",
-                            "facts" : "",
-                            "issue" : "",
-                            "ruling" : "",
-                            "significance" : "",
-                            "correlation" : "",
+                            "url": "",
+                            "facts": "",
+                            "issue": "",
+                            "ruling": "",
+                            "significance": "",
+                            "enum1": "",
+                            "enum2": "",
+                            "enum3": "",
+                            "enum4": "",
+                            "enum5": "",
+                            "enum6": "",
+                            "enum7": "",
+                            "enum8": "",
+                            "correlation": "",
                             "details": "",
-                            "children": 
-                            [
-                            
-                        ]
+                            "children": []
                         },
                         {
                             "name": "Compensation",
-                            "url" : "",
-                            "facts" : "",
-                            "issue" : "",
-                            "ruling" : "",
-                            "significance" : "",
-                            "correlation" : "",
+                            "url": "",
+                            "facts": "",
+                            "issue": "",
+                            "ruling": "",
+                            "significance": "",
+                            "enum1": "",
+                            "enum2": "",
+                            "enum3": "",
+                            "enum4": "",
+                            "enum5": "",
+                            "enum6": "",
+                            "enum7": "",
+                            "enum8": "",
+                            "correlation": "",
                             "details": "",
-                            "children": 
-                            [
-                            
-                        ]
+                            "children": []
                         },
                         {
                             "name": "Novation",
-                            "url" : "",
-                            "facts" : "",
-                            "issue" : "",
-                            "ruling" : "",
-                            "significance" : "",
-                            "correlation" : "",
+                            "url": "",
+                            "facts": "",
+                            "issue": "",
+                            "ruling": "",
+                            "significance": "",
+                            "enum1": "",
+                            "enum2": "",
+                            "enum3": "",
+                            "enum4": "",
+                            "enum5": "",
+                            "enum6": "",
+                            "enum7": "",
+                            "enum8": "",
+                            "correlation": "",
                             "details": "",
-                            "children": 
-                            [
-                            
-                        ]
-                        }                                                                                                                                            
-                ]
-                }                          
-                
-        ]
+                            "children": []
+                        }
+                    ]
+                }
+            ]
         },
         {
             "name": "Part II: Contracts",
-            "url" : "",
-            "facts" : "",
-            "issue" : "",
-            "ruling" : "",
-            "significance" : "",
-            "correlation" : "",
+            "url": "",
+            "facts": "",
+            "issue": "",
+            "ruling": "",
+            "significance": "",
+            "enum1": "",
+            "enum2": "",
+            "enum3": "",
+            "enum4": "",
+            "enum5": "",
+            "enum6": "",
+            "enum7": "",
+            "enum8": "",
+            "correlation": "",
             "details": "",
-            "children": 
-            [
+            "children": [
                 {
                     "name": "Definition, Classification, and Distinction",
-                    "url" : "",
-                    "facts" : "",
-                    "issue" : "",
-                    "ruling" : "",
-                    "significance" : "",
-                    "correlation" : "",
+                    "url": "",
+                    "facts": "",
+                    "issue": "",
+                    "ruling": "",
+                    "significance": "",
+                    "enum1": "",
+                    "enum2": "",
+                    "enum3": "",
+                    "enum4": "",
+                    "enum5": "",
+                    "enum6": "",
+                    "enum7": "",
+                    "enum8": "",
+                    "correlation": "",
                     "details": "",
-                    "children": 
-                    [
+                    "children": [
                         {
                             "name": "Definitions",
-                            "url" : "",
-                            "facts" : "",
-                            "issue" : "",
-                            "ruling" : "",
-                            "significance" : "",
-                            "correlation" : "",
+                            "url": "",
+                            "facts": "",
+                            "issue": "",
+                            "ruling": "",
+                            "significance": "",
+                            "enum1": "",
+                            "enum2": "",
+                            "enum3": "",
+                            "enum4": "",
+                            "enum5": "",
+                            "enum6": "",
+                            "enum7": "",
+                            "enum8": "",
+                            "correlation": "",
                             "details": "",
-                            "children": 
-                            [
+                            "children": [
                                 {
                                     "name": "Art. 1305",
-                                    "url" : "",
-                                    "facts" : "",
-                                    "issue" : "",
-                                    "ruling" : "",
-                                    "significance" : "",
-                                    "correlation" : "",
+                                    "url": "",
+                                    "facts": "",
+                                    "issue": "",
+                                    "ruling": "",
+                                    "significance": "",
+                                    "enum1": "",
+                                    "enum2": "",
+                                    "enum3": "",
+                                    "enum4": "",
+                                    "enum5": "",
+                                    "enum6": "",
+                                    "enum7": "",
+                                    "enum8": "",
+                                    "correlation": "",
                                     "details": "A contract is a meeting of the minds between two persons whereby one binds himself, with respect to the other, to give something or to render some service.",
-                                    "children": 
-                                    [
-                                    
-                                ]
+                                    "children": []
                                 },
                                 {
                                     "name": "Sanchez Roman in Jardine Davis v. CA",
-                                    "url" : "",
-                                    "facts" : "",
-                                    "issue" : "",
-                                    "ruling" : "",
-                                    "significance" : "",
-                                    "correlation" : "",
+                                    "url": "",
+                                    "facts": "",
+                                    "issue": "",
+                                    "ruling": "",
+                                    "significance": "",
+                                    "enum1": "",
+                                    "enum2": "",
+                                    "enum3": "",
+                                    "enum4": "",
+                                    "enum5": "",
+                                    "enum6": "",
+                                    "enum7": "",
+                                    "enum8": "",
+                                    "correlation": "",
                                     "details": "A juridical convention manifested in legal form, by virtue of which, one or more persons bind themselves in favor of another or others, or reciprocally, to the fulfillment of a prestation to give, to do, or not to do.",
-                                    "children": 
-                                    [
-                                    
-                                ]
-                                }                                
-                        ]
+                                    "children": []
+                                }
+                            ]
                         }
-                ]
+                    ]
                 },
                 {
                     "name": "Characteristics of Contracts",
-                    "url" : "",
-                    "facts" : "",
-                    "issue" : "",
-                    "ruling" : "",
-                    "significance" : "",
-                    "correlation" : "",
+                    "url": "",
+                    "facts": "",
+                    "issue": "",
+                    "ruling": "",
+                    "significance": "",
+                    "enum1": "",
+                    "enum2": "",
+                    "enum3": "",
+                    "enum4": "",
+                    "enum5": "",
+                    "enum6": "",
+                    "enum7": "",
+                    "enum8": "",
+                    "correlation": "",
                     "details": "",
-                    "children": 
-                    [
-                    
-                ]
+                    "children": []
                 },
                 {
                     "name": "Perfection of Contracts",
-                    "url" : "",
-                    "facts" : "",
-                    "issue" : "",
-                    "ruling" : "",
-                    "significance" : "",
-                    "correlation" : "",
+                    "url": "",
+                    "facts": "",
+                    "issue": "",
+                    "ruling": "",
+                    "significance": "",
+                    "enum1": "",
+                    "enum2": "",
+                    "enum3": "",
+                    "enum4": "",
+                    "enum5": "",
+                    "enum6": "",
+                    "enum7": "",
+                    "enum8": "",
+                    "correlation": "",
                     "details": "",
-                    "children": 
-                    [
-                    
-                ]
+                    "children": []
                 },
                 {
                     "name": "Essential Requisites of Contracts",
-                    "url" : "",
-                    "facts" : "",
-                    "issue" : "",
-                    "ruling" : "",
-                    "significance" : "",
-                    "correlation" : "",
+                    "url": "",
+                    "facts": "",
+                    "issue": "",
+                    "ruling": "",
+                    "significance": "",
+                    "enum1": "",
+                    "enum2": "",
+                    "enum3": "",
+                    "enum4": "",
+                    "enum5": "",
+                    "enum6": "",
+                    "enum7": "",
+                    "enum8": "",
+                    "correlation": "",
                     "details": "",
-                    "children": 
-                    [
-                    
-                ]
+                    "children": []
                 },
                 {
                     "name": "Forms of Contracts",
-                    "url" : "",
-                    "facts" : "",
-                    "issue" : "",
-                    "ruling" : "",
-                    "significance" : "",
-                    "correlation" : "",
+                    "url": "",
+                    "facts": "",
+                    "issue": "",
+                    "ruling": "",
+                    "significance": "",
+                    "enum1": "",
+                    "enum2": "",
+                    "enum3": "",
+                    "enum4": "",
+                    "enum5": "",
+                    "enum6": "",
+                    "enum7": "",
+                    "enum8": "",
+                    "correlation": "",
                     "details": "",
-                    "children": 
-                    [
-                    
-                ]
+                    "children": []
                 },
                 {
                     "name": "Reformation and Contract Interpretation",
-                    "url" : "",
-                    "facts" : "",
-                    "issue" : "",
-                    "ruling" : "",
-                    "significance" : "",
-                    "correlation" : "",
+                    "url": "",
+                    "facts": "",
+                    "issue": "",
+                    "ruling": "",
+                    "significance": "",
+                    "enum1": "",
+                    "enum2": "",
+                    "enum3": "",
+                    "enum4": "",
+                    "enum5": "",
+                    "enum6": "",
+                    "enum7": "",
+                    "enum8": "",
+                    "correlation": "",
                     "details": "",
-                    "children": 
-                    [
-                    
-                ]
+                    "children": []
                 },
                 {
                     "name": "Defective Contracts",
-                    "url" : "",
-                    "facts" : "",
-                    "issue" : "",
-                    "ruling" : "",
-                    "significance" : "",
-                    "correlation" : "",
+                    "url": "",
+                    "facts": "",
+                    "issue": "",
+                    "ruling": "",
+                    "significance": "",
+                    "enum1": "",
+                    "enum2": "",
+                    "enum3": "",
+                    "enum4": "",
+                    "enum5": "",
+                    "enum6": "",
+                    "enum7": "",
+                    "enum8": "",
+                    "correlation": "",
                     "details": "",
-                    "children": 
-                    [
+                    "children": [
                         {
                             "name": "Rescissible Contracts",
-                            "url" : "",
-                            "facts" : "",
-                            "issue" : "",
-                            "ruling" : "",
-                            "significance" : "",
-                            "correlation" : "",
+                            "url": "",
+                            "facts": "",
+                            "issue": "",
+                            "ruling": "",
+                            "significance": "",
+                            "enum1": "",
+                            "enum2": "",
+                            "enum3": "",
+                            "enum4": "",
+                            "enum5": "",
+                            "enum6": "",
+                            "enum7": "",
+                            "enum8": "",
+                            "correlation": "",
                             "details": "",
-                            "children": 
-                            [
-                            
-                        ]
+                            "children": []
                         },
                         {
                             "name": "Voidable Contracts",
-                            "url" : "",
-                            "facts" : "",
-                            "issue" : "",
-                            "ruling" : "",
-                            "significance" : "",
-                            "correlation" : "",
+                            "url": "",
+                            "facts": "",
+                            "issue": "",
+                            "ruling": "",
+                            "significance": "",
+                            "enum1": "",
+                            "enum2": "",
+                            "enum3": "",
+                            "enum4": "",
+                            "enum5": "",
+                            "enum6": "",
+                            "enum7": "",
+                            "enum8": "",
+                            "correlation": "",
                             "details": "",
-                            "children": 
-                            [
-                            
-                        ]
+                            "children": []
                         },
                         {
                             "name": "Unenforceable Contracts",
-                            "url" : "",
-                            "facts" : "",
-                            "issue" : "",
-                            "ruling" : "",
-                            "significance" : "",
-                            "correlation" : "",
+                            "url": "",
+                            "facts": "",
+                            "issue": "",
+                            "ruling": "",
+                            "significance": "",
+                            "enum1": "",
+                            "enum2": "",
+                            "enum3": "",
+                            "enum4": "",
+                            "enum5": "",
+                            "enum6": "",
+                            "enum7": "",
+                            "enum8": "",
+                            "correlation": "",
                             "details": "",
-                            "children": 
-                            [
-                            
-                        ]
+                            "children": []
                         },
                         {
                             "name": "Void or Inexistent",
-                            "url" : "",
-                            "facts" : "",
-                            "issue" : "",
-                            "ruling" : "",
-                            "significance" : "",
-                            "correlation" : "",
+                            "url": "",
+                            "facts": "",
+                            "issue": "",
+                            "ruling": "",
+                            "significance": "",
+                            "enum1": "",
+                            "enum2": "",
+                            "enum3": "",
+                            "enum4": "",
+                            "enum5": "",
+                            "enum6": "",
+                            "enum7": "",
+                            "enum8": "",
+                            "enum1": "",
+                            "enum2": "",
+                            "enum3": "",
+                            "enum4": "",
+                            "enum5": "",
+                            "enum6": "",
+                            "enum7": "",
+                            "enum8": "",
+                            "correlation": "",
                             "details": "",
-                            "children": 
-                            [
-                            
-                        ]
-                        }                                                                        
-                                            
-                ]
-                }                                                                                                            
-        ]
-        }        
-]
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
