@@ -125,10 +125,10 @@
                             "issue": "",
                             "ruling": "",
                             "significance": "",
-                            "enum1": "",
-                            "enum2": "",
-                            "enum3": "",
-                            "enum4": "",
+                            "enum1": "Juridical tie or vinculum juris",
+                            "enum2": "Object",
+                            "enum3": "Active subject",
+                            "enum4": "Passive subject",
                             "enum5": "",
                             "enum6": "",
                             "enum7": "",
@@ -144,11 +144,11 @@
                             "issue": "",
                             "ruling": "",
                             "significance": "",
-                            "enum1": "",
-                            "enum2": "",
-                            "enum3": "",
-                            "enum4": "",
-                            "enum5": "",
+                            "enum1": "Law",
+                            "enum2": "Contract",
+                            "enum3": "Quasi-contract",
+                            "enum4": "Delict",
+                            "enum5": "Quasi-delict",
                             "enum6": "",
                             "enum7": "",
                             "enum8": "",
@@ -171,7 +171,7 @@
                                     "enum7": "",
                                     "enum8": "",
                                     "correlation": "",
-                                    "details": "",
+                                    "details": "Not presumed",
                                     "children": []
                                 },
                                 {
@@ -227,7 +227,7 @@
                                             "enum7": "",
                                             "enum8": "",
                                             "correlation": "",
-                                            "details": "",
+                                            "details": "Juridical relation that arises when a person voluntarily takes charge of the agency or management of another's abandoned or neglected business or property without the owner's authority",
                                             "children": []
                                         },
                                         {
@@ -247,7 +247,27 @@
                                             "enum8": "",
                                             "correlation": "",
                                             "details": "",
-                                            "children": []
+                                            "children": [
+                                                {
+                                                    "name": "In rem verso",
+                                                    "url": "",
+                                                    "facts": "",
+                                                    "issue": "",
+                                                    "ruling": "",
+                                                    "significance": "",
+                                                    "correlation": "",
+                                                    "details": "",
+                                                    "enum1": "",
+                                                    "enum2": "",
+                                                    "enum3": "",
+                                                    "enum4": "",
+                                                    "enum5": "",
+                                                    "enum6": "",
+                                                    "enum7": "",
+                                                    "enum8": "",
+                                                    "children": []
+                                                    }
+                                            ]
                                         },
                                         {
                                             "name": "Other Forms of Quasi-Contracts",
