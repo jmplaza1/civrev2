@@ -665,7 +665,27 @@
                                             "enum8": "",
                                             "correlation": "",
                                             "details": "",
-                                            "children": []
+                                            "children": [
+                                                {
+                                                    "name": "Requisites",
+                                                    "url": "",
+                                                    "facts": "",
+                                                    "issue": "",
+                                                    "ruling": "",
+                                                    "significance": "",
+                                                    "correlation": "",
+                                                    "details": "",
+                                                    "enum1": "a. Complete and regular;",
+                                                    "enum2": "b. Tendered by the proper person;",
+                                                    "enum3": "c. Person making payment is capacitated;",
+                                                    "enum4": "d. Made to the proper person;",
+                                                    "enum5": "e. Person to whom payment is made must be capacitated;",
+                                                    "enum6": "f. Identity of the prestation must be preserved;",
+                                                    "enum7": "g. Tender made in the proper place",
+                                                    "enum8": "",
+                                                    "children": []
+                                                }
+                                            ]
                                         },
                                         {
                                             "name": "Loss of the Thing Due and Impossibility of Performance",
@@ -684,7 +704,86 @@
                                             "enum8": "",
                                             "correlation": "",
                                             "details": "",
-                                            "children": []
+                                            "children": [
+                                                {
+                                                    "name": "Concept",
+                                                    "url": "",
+                                                    "facts": "",
+                                                    "issue": "",
+                                                    "ruling": "",
+                                                    "significance": "",
+                                                    "correlation": "",
+                                                    "details": "It is understood that the thing is lost when:",
+                                                    "enum1": "a. The thing perishes;",
+                                                    "enum2": "b. Goes out of commerce;",
+                                                    "enum3": "c. Disappears in such a way that its existence is unknown or it cannot be recovered",
+                                                    "enum4": "",
+                                                    "enum5": "",
+                                                    "enum6": "",
+                                                    "enum7": "",
+                                                    "enum8": "",
+                                                    "children": [
+                                                        {
+                                                            "name": "Exceptions to Application",
+                                                            "url": "",
+                                                            "facts": "",
+                                                            "issue": "",
+                                                            "ruling": "",
+                                                            "significance": "",
+                                                            "correlation": "",
+                                                            "details": "Generic Obligations - Genus of a thing can never perish. Genus nunquam perit.",
+                                                            "enum1": "",
+                                                            "enum2": "",
+                                                            "enum3": "",
+                                                            "enum4": "",
+                                                            "enum5": "",
+                                                            "enum6": "",
+                                                            "enum7": "",
+                                                            "enum8": "",
+                                                            "children": [
+                                                                {
+                                                                    "name": "Exception to the exception",
+                                                                    "url": "",
+                                                                    "facts": "",
+                                                                    "issue": "",
+                                                                    "ruling": "",
+                                                                    "significance": "",
+                                                                    "correlation": "",
+                                                                    "details": "Delimited Generic Obligations",
+                                                                    "enum1": "",
+                                                                    "enum2": "",
+                                                                    "enum3": "",
+                                                                    "enum4": "",
+                                                                    "enum5": "",
+                                                                    "enum6": "",
+                                                                    "enum7": "",
+                                                                    "enum8": "",
+                                                                    "children": []
+                                                                    }
+                                                            ]
+                                                            }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "Requisites for the Loss of Obligation",
+                                                    "url": "",
+                                                    "facts": "",
+                                                    "issue": "",
+                                                    "ruling": "",
+                                                    "significance": "",
+                                                    "correlation": "",
+                                                    "details": "",
+                                                    "enum1": "a. Obligation consists in the delivery of a determinate thing;",
+                                                    "enum2": "b. After the constitution of the obligation;",
+                                                    "enum3": "c. Debtor must not have any fault;",
+                                                    "enum4": "d. Loss occurs before delay;",
+                                                    "enum5": "e. Debtor must not have promised to deliver the thing to 2 or more persons who do not have the same interest",
+                                                    "enum6": "",
+                                                    "enum7": "",
+                                                    "enum8": "",
+                                                    "children": []
+                                                }
+                                            ]
                                         },
                                         {
                                             "name": "Condonation and Remission of Debt",
@@ -947,9 +1046,9 @@
                             "issue": "",
                             "ruling": "",
                             "significance": "",
-                            "enum1": "",
-                            "enum2": "",
-                            "enum3": "",
+                            "enum1": "1) Consent",
+                            "enum2": "2) Object",
+                            "enum3": "3) Cause",
                             "enum4": "",
                             "enum5": "",
                             "enum6": "",
