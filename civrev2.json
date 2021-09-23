@@ -639,12 +639,12 @@
                                     "significance": "",
                                     "correlation": "",
                                     "details": "",
-                                    "enum1": "",
-                                    "enum2": "",
-                                    "enum3": "",
-                                    "enum4": "",
-                                    "enum5": "",
-                                    "enum6": "",
+                                    "enum1": "a. Payment or performance",
+                                    "enum2": "b. Loss of the Thing Due",
+                                    "enum3": "c. Condonation or Remission of the Debt",
+                                    "enum4": "d. Confusion or Merger of Rights",
+                                    "enum5": "e. Compensation",
+                                    "enum6": "f. Novation",
                                     "enum7": "",
                                     "enum8": "",
                                     "children": [
@@ -759,9 +759,9 @@
                                                                     "enum7": "",
                                                                     "enum8": "",
                                                                     "children": []
-                                                                    }
+                                                                }
                                                             ]
-                                                            }
+                                                        }
                                                     ]
                                                 },
                                                 {
@@ -801,8 +801,66 @@
                                             "enum7": "",
                                             "enum8": "",
                                             "correlation": "",
-                                            "details": "",
-                                            "children": []
+                                            "details": "Definition: It is an act of liberality renouncing the enforcement of an obligation without receiving the price or equivalent thereof",
+                                            "children": [
+                                                {
+                                                    "name": "Requisites",
+                                                    "url": "",
+                                                    "facts": "",
+                                                    "issue": "",
+                                                    "ruling": "",
+                                                    "significance": "",
+                                                    "correlation": "",
+                                                    "details": "",
+                                                    "enum1": "a. Gratuitous;",
+                                                    "enum2": "b. Demandable;",
+                                                    "enum3": "c. Accepted by the obligor;",
+                                                    "enum4": "d. Must not be an inofficious donation;",
+                                                    "enum5": "e. If made expressly, must comply with the requisites for donation",
+                                                    "enum6": "",
+                                                    "enum7": "",
+                                                    "enum8": "",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "name": "Presumption",
+                                                    "url": "",
+                                                    "facts": "",
+                                                    "issue": "",
+                                                    "ruling": "",
+                                                    "significance": "",
+                                                    "correlation": "",
+                                                    "details": "",
+                                                    "enum1": "",
+                                                    "enum2": "",
+                                                    "enum3": "",
+                                                    "enum4": "",
+                                                    "enum5": "",
+                                                    "enum6": "",
+                                                    "enum7": "",
+                                                    "enum8": "",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "name": "Remission of Accessory Obligation",
+                                                    "url": "",
+                                                    "facts": "",
+                                                    "issue": "",
+                                                    "ruling": "",
+                                                    "significance": "",
+                                                    "correlation": "",
+                                                    "details": "",
+                                                    "enum1": "",
+                                                    "enum2": "",
+                                                    "enum3": "",
+                                                    "enum4": "",
+                                                    "enum5": "",
+                                                    "enum6": "",
+                                                    "enum7": "",
+                                                    "enum8": "",
+                                                    "children": []
+                                                }
+                                            ]
                                         },
                                         {
                                             "name": "Confusion and Merger of Rights",
@@ -820,8 +878,28 @@
                                             "enum7": "",
                                             "enum8": "",
                                             "correlation": "",
-                                            "details": "",
-                                            "children": []
+                                            "details": "Definition: Meeting in one person of the qualities of debtor and creditor",
+                                            "children": [
+                                                {
+                                                    "name": "Requisites of Confusion",
+                                                    "url": "",
+                                                    "facts": "",
+                                                    "issue": "",
+                                                    "ruling": "",
+                                                    "significance": "",
+                                                    "correlation": "",
+                                                    "details": "",
+                                                    "enum1": "a. Must take place in the person of the principal creditor and principal debtor;",
+                                                    "enum2": "b. Complete and definite",
+                                                    "enum3": "",
+                                                    "enum4": "",
+                                                    "enum5": "",
+                                                    "enum6": "",
+                                                    "enum7": "",
+                                                    "enum8": "",
+                                                    "children": []
+                                                }
+                                            ]
                                         },
                                         {
                                             "name": "Compensation",
@@ -839,8 +917,47 @@
                                             "enum7": "",
                                             "enum8": "",
                                             "correlation": "",
-                                            "details": "",
-                                            "children": []
+                                            "details": "Definition: Mode of extinguishing to the concurrent amounts the obligations of persons who are reciprocally debtors and creditors of each other",
+                                            "children": [
+                                                {
+                                                    "name": "Kinds of Compensation",
+                                                    "url": "",
+                                                    "facts": "",
+                                                    "issue": "",
+                                                    "ruling": "",
+                                                    "significance": "",
+                                                    "correlation": "",
+                                                    "details": "",
+                                                    "enum1": "",
+                                                    "enum2": "",
+                                                    "enum3": "",
+                                                    "enum4": "",
+                                                    "enum5": "",
+                                                    "enum6": "",
+                                                    "enum7": "",
+                                                    "enum8": "",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "name": "Requisites of Compensation",
+                                                    "url": "",
+                                                    "facts": "",
+                                                    "issue": "",
+                                                    "ruling": "",
+                                                    "significance": "",
+                                                    "correlation": "",
+                                                    "details": "",
+                                                    "enum1": "a. Parties must be principally debtors and creditors of each other;",
+                                                    "enum2": "b. Debt consists of a sum of money or of the same kind and quality, if consumable;",
+                                                    "enum3": "c. Both debts must be due;",
+                                                    "enum4": "d. Both debts must be liquidated and demandable;",
+                                                    "enum5": "e. No retention or controversy commenced by third persons over any of them",
+                                                    "enum6": "",
+                                                    "enum7": "",
+                                                    "enum8": "",
+                                                    "children": []
+                                                }
+                                            ]
                                         },
                                         {
                                             "name": "Novation",
@@ -849,17 +966,37 @@
                                             "issue": "",
                                             "ruling": "",
                                             "significance": "",
-                                            "enum1": "",
-                                            "enum2": "",
-                                            "enum3": "",
+                                            "enum1": "a. Changing its principal conditions; ",
+                                            "enum2": "b. Substitution of the debtor;",
+                                            "enum3": "c. Subrogating a person in the rights of the creditor",
                                             "enum4": "",
                                             "enum5": "",
                                             "enum6": "",
                                             "enum7": "",
                                             "enum8": "",
                                             "correlation": "",
-                                            "details": "",
-                                            "children": []
+                                            "details": "Definition:L Extinguishment of an obligation by: ",
+                                            "children": [
+                                                {
+                                                    "name": "Requisites of Novation",
+                                                    "url": "",
+                                                    "facts": "",
+                                                    "issue": "",
+                                                    "ruling": "",
+                                                    "significance": "",
+                                                    "correlation": "",
+                                                    "details": "",
+                                                    "enum1": "a. Previous valid obligation;",
+                                                    "enum2": "b. Agreement to the new contract;",
+                                                    "enum3": "c. Old contract must be extinguished;",
+                                                    "enum4": "d. Valid new contract",
+                                                    "enum5": "",
+                                                    "enum6": "",
+                                                    "enum7": "",
+                                                    "enum8": "",
+                                                    "children": []
+                                                    }
+                                            ]
                                         }
                                     ]
                                 },
