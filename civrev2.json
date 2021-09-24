@@ -494,7 +494,46 @@
                                     "enum8": "",
                                     "correlation": "",
                                     "details": "",
-                                    "children": []
+                                    "children": [
+                                        {
+                                            "name": "Real - to give",
+                                            "url": "",
+                                            "facts": "",
+                                            "issue": "",
+                                            "ruling": "",
+                                            "significance": "",
+                                            "correlation": "",
+                                            "details": "",
+                                            "enum1": "",
+                                            "enum2": "",
+                                            "enum3": "",
+                                            "enum4": "",
+                                            "enum5": "",
+                                            "enum6": "",
+                                            "enum7": "",
+                                            "enum8": "",
+                                            "children": []
+                                            },
+                                            {
+                                                "name": "Personal - to do, not to do, not to give",
+                                                "url": "",
+                                                "facts": "",
+                                                "issue": "",
+                                                "ruling": "",
+                                                "significance": "",
+                                                "correlation": "",
+                                                "details": "",
+                                                "enum1": "",
+                                                "enum2": "",
+                                                "enum3": "",
+                                                "enum4": "",
+                                                "enum5": "",
+                                                "enum6": "",
+                                                "enum7": "",
+                                                "enum8": "",
+                                                "children": []
+                                                }
+                                    ]
                                 },
                                 {
                                     "name": "Pure, Conditional, and Obligations with a Period",
@@ -594,6 +633,105 @@
                             ]
                         },
                         {
+                            "name": "Nature and Effects of Obligations",
+                            "url": "",
+                            "facts": "",
+                            "issue": "",
+                            "ruling": "",
+                            "significance": "",
+                            "correlation": "",
+                            "details": "",
+                            "enum1": "",
+                            "enum2": "",
+                            "enum3": "",
+                            "enum4": "",
+                            "enum5": "",
+                            "enum6": "",
+                            "enum7": "",
+                            "enum8": "",
+                            "children": [
+                                {
+                                    "name": "NOTES",
+                                    "url": "",
+                                    "facts": "",
+                                    "issue": "",
+                                    "ruling": "",
+                                    "significance": "",
+                                    "correlation": "",
+                                    "details": "Date: 09/24/2021",
+                                    "enum1": "",
+                                    "enum2": "",
+                                    "enum3": "",
+                                    "enum4": "",
+                                    "enum5": "",
+                                    "enum6": "",
+                                    "enum7": "",
+                                    "enum8": "",
+                                    "children": [
+                                        {
+                                            "name": "Real and Personal",
+                                            "url": "",
+                                            "facts": "",
+                                            "issue": "",
+                                            "ruling": "",
+                                            "significance": "",
+                                            "correlation": "In relation to loss",
+                                            "details": "",
+                                            "enum1": "The tenor of the obligation dictates whether an obligation is specific or generic.",
+                                            "enum2": "Loss caused with the fault of the debtor gives rise to an obligation under Art. 1170.",
+                                            "enum3": "No cause of action in case of loss of generic thing through negligence.",
+                                            "enum4": "Negligence does not give rise to a cause of action if it does not cause damages.",
+                                            "enum5": "Provision on standard of diligence does not apply to indeterminate generic obligations.",
+                                            "enum6": "Art. 1246 on demand by creditor and Art. 1244 on demand by debtor. ",
+                                            "enum7": "Limited Generic - Art. 1244 applies",
+                                            "enum8": "",
+                                            "children": [
+                                                {
+                                                    "name": "On Real Obligations",
+                                                    "url": "",
+                                                    "facts": "",
+                                                    "issue": "",
+                                                    "ruling": "",
+                                                    "significance": "",
+                                                    "correlation": "",
+                                                    "details": "",
+                                                    "enum1": "Art. 1163 is a supplemental duty of a debtor when the obligation is a specific determinate. This is an obligation to do arising from provision of law. Basis for a cause of action for negligence. Art. 1173",
+                                                    "enum2": "",
+                                                    "enum3": "",
+                                                    "enum4": "",
+                                                    "enum5": "",
+                                                    "enum6": "",
+                                                    "enum7": "",
+                                                    "enum8": "",
+                                                    "children": [
+                                                        {
+                                                            "name": "Bishop of Jaro v. CA",
+                                                            "url": "",
+                                                            "facts": "",
+                                                            "issue": "",
+                                                            "ruling": "",
+                                                            "significance": "",
+                                                            "correlation": "",
+                                                            "details": "MONEY cominggled with the personal bank account and subsequently confiscated by the American government due to suspected subversive acts.",
+                                                            "enum1": "Although the Civil Code states that 'a person obliged to give something is also bound to preserve it with the diligence pertaining to a good father of a family' (art. 1094), it also provides, following the principle of the Roman law, major casus est, cui humana infirmitas resistere non potest, that 'no one shall be liable for events which could not be foreseen, or which having been foreseen were inevitable, with the exception of the cases expressly mentioned in the law or those in which the obligation so declares.' (Art. 1105.)",
+                                                            "enum2": "By placing the money in the bank and mixing it with his personal funds De la Peña did not thereby assume an obligation different from that under which he would have lain if such deposit had not been made, nor did he thereby make himself liable to repay the money at all hazards. If the had been forcibly taken from his pocket or from his house by the military forces of one of the combatants during a state of war, it is clear that under the provisions of the Civil Code he would have been exempt from responsibility. The fact that he placed the trust fund in the bank in his personal account does not add to his responsibility. Such deposit did not make him a debtor who must respond at all hazards.",
+                                                            "enum3": "",
+                                                            "enum4": "",
+                                                            "enum5": "",
+                                                            "enum6": "",
+                                                            "enum7": "",
+                                                            "enum8": "",
+                                                            "children": []
+                                                            }
+                                                    ]
+                                                    }
+                                            ]
+                                            }
+                                    ]
+                                    }
+                            ]
+                            },
+                        {
                             "name": "Breach of Obligations",
                             "url": "",
                             "facts": "",
@@ -610,7 +748,27 @@
                             "enum8": "",
                             "correlation": "",
                             "details": "",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Mora (Delay)",
+                                    "url": "",
+                                    "facts": "",
+                                    "issue": "",
+                                    "ruling": "",
+                                    "significance": "",
+                                    "correlation": "",
+                                    "details": "",
+                                    "enum1": "",
+                                    "enum2": "",
+                                    "enum3": "",
+                                    "enum4": "",
+                                    "enum5": "",
+                                    "enum6": "",
+                                    "enum7": "",
+                                    "enum8": "",
+                                    "children": []
+                                    }
+                            ]
                         },
                         {
                             "name": "Extinguishment of Obligations",
