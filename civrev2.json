@@ -651,7 +651,7 @@
                             "enum8": "",
                             "children": [
                                 {
-                                    "name": "NOTES",
+                                    "name": "LECTURE NOTES",
                                     "url": "",
                                     "facts": "",
                                     "issue": "",
@@ -696,10 +696,10 @@
                                                     "correlation": "",
                                                     "details": "",
                                                     "enum1": "Art. 1163 is a supplemental duty of a debtor when the obligation is a specific determinate. This is an obligation to do arising from provision of law. Basis for a cause of action for negligence. Art. 1173",
-                                                    "enum2": "",
-                                                    "enum3": "",
-                                                    "enum4": "",
-                                                    "enum5": "",
+                                                    "enum2": "Art. 1166 is not applicable to indeterminate objects and also to limited generic objects. ",
+                                                    "enum3": "Art. 1166 gives rise to the need to explicitly exclude accessories and accessions in obligations with specific determinate objects. Basis is the right on accession which is a right in ownership. Conveyance transfers ownership and all its attributes and not merely the delivery of the principal.",
+                                                    "enum4": "Art. 1164 on Fruits in relation to Art. 1166 - applicable only on specific objects. Not applicable to indeterminate objects and those of limited generic. Entitlement to fruits depends on the time it materialized (whether the obligation to deliver the principal has arised) Keep in mind, source of obligation dictates when the obligation arise. ",
+                                                    "enum5": "Art. 1537 - provides that in contracts of sale, PERFECTION of the contract determines the delivery of the fruits. There are two schools of thought: 1) Art. 1537 is absolute 2) there is an exception as to whether the obligation is subject to a suspensive period or condition - obligation to deliver is not at the moment of perfection but rather the arrival of the term or fulfillment of the condition. We must adhere to the 2nd school of thought - there are provisions that further the contention",
                                                     "enum6": "",
                                                     "enum7": "",
                                                     "enum8": "",
@@ -722,7 +722,26 @@
                                                             "enum7": "",
                                                             "enum8": "",
                                                             "children": []
-                                                            }
+                                                            },
+                                                            {
+                                                                "name": "",
+                                                                "url": "",
+                                                                "facts": "",
+                                                                "issue": "",
+                                                                "ruling": "",
+                                                                "significance": "",
+                                                                "correlation": "",
+                                                                "details": "",
+                                                                "enum1": "",
+                                                                "enum2": "",
+                                                                "enum3": "",
+                                                                "enum4": "",
+                                                                "enum5": "",
+                                                                "enum6": "",
+                                                                "enum7": "",
+                                                                "enum8": "",
+                                                                "children": []
+                                                                }
                                                     ]
                                                     }
                                             ]
