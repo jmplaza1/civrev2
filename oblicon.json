@@ -495,26 +495,26 @@
                                     "enum7": "",
                                     "enum8": "",
                                     "children": []
-                                    },
-                                    {
-                                        "name": "Personal - to do, not to do, not to give",
-                                        "url": "",
-                                        "facts": "",
-                                        "issue": "",
-                                        "ruling": "",
-                                        "significance": "",
-                                        "correlation": "",
-                                        "details": "",
-                                        "enum1": "",
-                                        "enum2": "",
-                                        "enum3": "",
-                                        "enum4": "",
-                                        "enum5": "",
-                                        "enum6": "",
-                                        "enum7": "",
-                                        "enum8": "",
-                                        "children": []
-                                        }
+                                },
+                                {
+                                    "name": "Personal - to do, not to do, not to give",
+                                    "url": "",
+                                    "facts": "",
+                                    "issue": "",
+                                    "ruling": "",
+                                    "significance": "",
+                                    "correlation": "",
+                                    "details": "",
+                                    "enum1": "",
+                                    "enum2": "",
+                                    "enum3": "",
+                                    "enum4": "",
+                                    "enum5": "",
+                                    "enum6": "",
+                                    "enum7": "",
+                                    "enum8": "",
+                                    "children": []
+                                }
                             ]
                         },
                         {
@@ -704,34 +704,34 @@
                                                     "enum7": "",
                                                     "enum8": "",
                                                     "children": []
-                                                    },
-                                                    {
-                                                        "name": "",
-                                                        "url": "",
-                                                        "facts": "",
-                                                        "issue": "",
-                                                        "ruling": "",
-                                                        "significance": "",
-                                                        "correlation": "",
-                                                        "details": "",
-                                                        "enum1": "",
-                                                        "enum2": "",
-                                                        "enum3": "",
-                                                        "enum4": "",
-                                                        "enum5": "",
-                                                        "enum6": "",
-                                                        "enum7": "",
-                                                        "enum8": "",
-                                                        "children": []
-                                                        }
+                                                },
+                                                {
+                                                    "name": "",
+                                                    "url": "",
+                                                    "facts": "",
+                                                    "issue": "",
+                                                    "ruling": "",
+                                                    "significance": "",
+                                                    "correlation": "",
+                                                    "details": "",
+                                                    "enum1": "",
+                                                    "enum2": "",
+                                                    "enum3": "",
+                                                    "enum4": "",
+                                                    "enum5": "",
+                                                    "enum6": "",
+                                                    "enum7": "",
+                                                    "enum8": "",
+                                                    "children": []
+                                                }
                                             ]
-                                            }
+                                        }
                                     ]
-                                    }
+                                }
                             ]
-                            }
+                        }
                     ]
-                    },
+                },
                 {
                     "name": "Breach of Obligations",
                     "url": "",
@@ -739,8 +739,8 @@
                     "issue": "",
                     "ruling": "",
                     "significance": "",
-                    "enum1": "",
-                    "enum2": "",
+                    "enum1": "1) Voluntary",
+                    "enum2": "2) Involuntary",
                     "enum3": "",
                     "enum4": "",
                     "enum5": "",
@@ -751,7 +751,7 @@
                     "details": "",
                     "children": [
                         {
-                            "name": "Mora (Delay)",
+                            "name": "1) Voluntary",
                             "url": "",
                             "facts": "",
                             "issue": "",
@@ -768,7 +768,84 @@
                             "enum7": "",
                             "enum8": "",
                             "children": []
-                            }
+                        },
+                        {
+                            "name": "2) Involuntary",
+                            "url": "",
+                            "facts": "",
+                            "issue": "",
+                            "ruling": "",
+                            "significance": "",
+                            "correlation": "",
+                            "details": "",
+                            "enum1": "",
+                            "enum2": "",
+                            "enum3": "",
+                            "enum4": "",
+                            "enum5": "",
+                            "enum6": "",
+                            "enum7": "",
+                            "enum8": "",
+                            "children": [
+                                {
+                                    "name": "Mora (Delay)",
+                                    "url": "",
+                                    "facts": "",
+                                    "issue": "",
+                                    "ruling": "",
+                                    "significance": "",
+                                    "correlation": "",
+                                    "details": "",
+                                    "enum1": "",
+                                    "enum2": "",
+                                    "enum3": "",
+                                    "enum4": "",
+                                    "enum5": "",
+                                    "enum6": "",
+                                    "enum7": "",
+                                    "enum8": "",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Dolo or Fraud",
+                                    "url": "",
+                                    "facts": "",
+                                    "issue": "",
+                                    "ruling": "",
+                                    "significance": "",
+                                    "correlation": "",
+                                    "details": "",
+                                    "enum1": "",
+                                    "enum2": "",
+                                    "enum3": "",
+                                    "enum4": "",
+                                    "enum5": "",
+                                    "enum6": "",
+                                    "enum7": "",
+                                    "enum8": "",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Culpa or Negligence",
+                                    "url": "",
+                                    "facts": "",
+                                    "issue": "",
+                                    "ruling": "",
+                                    "significance": "",
+                                    "correlation": "",
+                                    "details": "",
+                                    "enum1": "",
+                                    "enum2": "",
+                                    "enum3": "",
+                                    "enum4": "",
+                                    "enum5": "",
+                                    "enum6": "",
+                                    "enum7": "",
+                                    "enum8": "",
+                                    "children": []
+                                }
+                            ]
+                        }
                     ]
                 },
                 {
