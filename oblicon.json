@@ -958,7 +958,26 @@
                                                             "children": []
                                                             }
                                                     ]
-                                                    }
+                                                    },
+                                                    {
+                                                        "name": "Reciprocal Obligations",
+                                                        "url": "",
+                                                        "facts": "",
+                                                        "issue": "",
+                                                        "ruling": "",
+                                                        "significance": "",
+                                                        "correlation": "",
+                                                        "details": "",
+                                                        "enum1": "Solar Harvest",
+                                                        "enum2": "",
+                                                        "enum3": "",
+                                                        "enum4": "",
+                                                        "enum5": "",
+                                                        "enum6": "",
+                                                        "enum7": "",
+                                                        "enum8": "",
+                                                        "children": []
+                                                        }
                                             ]
                                             },
                                         {
@@ -1054,7 +1073,26 @@
                                                                 "enum7": "",
                                                                 "enum8": "",
                                                                 "children": []
-                                                                }
+                                                                },
+                                                                {
+                                                                    "name": "In relation to fortuitous event",
+                                                                    "url": "",
+                                                                    "facts": "",
+                                                                    "issue": "",
+                                                                    "ruling": "",
+                                                                    "significance": "",
+                                                                    "correlation": "",
+                                                                    "details": "Art. 1165",
+                                                                    "enum1": "",
+                                                                    "enum2": "",
+                                                                    "enum3": "",
+                                                                    "enum4": "",
+                                                                    "enum5": "",
+                                                                    "enum6": "",
+                                                                    "enum7": "",
+                                                                    "enum8": "",
+                                                                    "children": []
+                                                                    }
                                                     
                                                 ]
                                                 },
