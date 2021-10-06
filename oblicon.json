@@ -876,8 +876,8 @@
                     "issue": "",
                     "ruling": "",
                     "significance": "",
-                    "enum1": "1) Voluntary",
-                    "enum2": "2) Involuntary",
+                    "enum1": "1) Involuntary",
+                    "enum2": "2) Voluntary",
                     "enum3": "",
                     "enum4": "",
                     "enum5": "",
@@ -1066,9 +1066,9 @@
                                                     "significance": "",
                                                     "correlation": "",
                                                     "details": "There is no mora solvendi in the following:",
-                                                    "enum1": "negative obligation",
-                                                    "enum2": "natural obligation",
-                                                    "enum3": "alternative obligation",
+                                                    "enum1": "1) negative obligation",
+                                                    "enum2": "2) natural obligation",
+                                                    "enum3": "3) alternative obligation",
                                                     "enum4": "",
                                                     "enum5": "",
                                                     "enum6": "",
@@ -1085,9 +1085,9 @@
                                                     "significance": "",
                                                     "correlation": "",
                                                     "details": "",
-                                                    "enum1": "",
-                                                    "enum2": "",
-                                                    "enum3": "",
+                                                    "enum1": "1. an offer of performance by the debtor who has the required capacity",
+                                                    "enum2": "2. the offer must be to comply with the prestation as it should be performed; and",
+                                                    "enum3": "3. the creditor refuses the performance without just cause",
                                                     "enum4": "",
                                                     "enum5": "",
                                                     "enum6": "",
@@ -1342,26 +1342,64 @@
                                                                     "enum7": "",
                                                                     "enum8": "",
                                                                     "children": []
-                                                                    },
-                                                                    {
-                                                                        "name": "Nakpil & Sons v. CA",
-                                                                        "url": "",
-                                                                        "facts": "",
-                                                                        "issue": "",
-                                                                        "ruling": "",
-                                                                        "significance": "",
-                                                                        "correlation": "",
-                                                                        "details": "",
-                                                                        "enum1": "",
-                                                                        "enum2": "",
-                                                                        "enum3": "",
-                                                                        "enum4": "",
-                                                                        "enum5": "",
-                                                                        "enum6": "",
-                                                                        "enum7": "",
-                                                                        "enum8": "",
-                                                                        "children": []
-                                                                        }
+                                                                },
+                                                                {
+                                                                    "name": "Nakpil & Sons v. CA",
+                                                                    "url": "",
+                                                                    "facts": "",
+                                                                    "issue": "",
+                                                                    "ruling": "",
+                                                                    "significance": "",
+                                                                    "correlation": "",
+                                                                    "details": "",
+                                                                    "enum1": "",
+                                                                    "enum2": "",
+                                                                    "enum3": "",
+                                                                    "enum4": "",
+                                                                    "enum5": "",
+                                                                    "enum6": "",
+                                                                    "enum7": "",
+                                                                    "enum8": "",
+                                                                    "children": []
+                                                                },
+                                                                {
+                                                                    "name": "Republic v. Stevedoring",
+                                                                    "url": "",
+                                                                    "facts": "",
+                                                                    "issue": "",
+                                                                    "ruling": "",
+                                                                    "significance": "",
+                                                                    "correlation": "",
+                                                                    "details": "Presumption of Negligence",
+                                                                    "enum1": "",
+                                                                    "enum2": "",
+                                                                    "enum3": "",
+                                                                    "enum4": "",
+                                                                    "enum5": "",
+                                                                    "enum6": "",
+                                                                    "enum7": "",
+                                                                    "enum8": "",
+                                                                    "children": []
+                                                                },
+                                                                {
+                                                                    "name": "Salugada v. FEU",
+                                                                    "url": "",
+                                                                    "facts": "",
+                                                                    "issue": "",
+                                                                    "ruling": "",
+                                                                    "significance": "",
+                                                                    "correlation": "",
+                                                                    "details": "",
+                                                                    "enum1": "",
+                                                                    "enum2": "",
+                                                                    "enum3": "",
+                                                                    "enum4": "",
+                                                                    "enum5": "",
+                                                                    "enum6": "",
+                                                                    "enum7": "",
+                                                                    "enum8": "",
+                                                                    "children": []
+                                                                }
                                                             ]
                                                         },
                                                         {
@@ -1382,7 +1420,7 @@
                                                             "enum7": "",
                                                             "enum8": "",
                                                             "children": []
-                                                            }
+                                                        }
                                                     ]
                                                 }
                                             ]
@@ -1753,7 +1791,7 @@
                                             "enum7": "",
                                             "enum8": "",
                                             "children": []
-                                            }
+                                        }
                                     ]
                                 },
                                 {
@@ -3081,9 +3119,9 @@
                                             "ruling": "",
                                             "significance": "",
                                             "correlation": "",
-                                            "details": "Insidious  words  or  machinations resorted to by one of the parties to induce the other to enter into a contract which without them he would not have agreed to",
-                                            "enum1": "",
-                                            "enum2": "",
+                                            "details": "Conscious and intentional proposition to evade the normal fulfillment of an obligation",
+                                            "enum1": "Implies insidious  words  or  machinations resorted to by one of the parties to induce the other to enter into a contract which without them he would not have agreed to",
+                                            "enum2": "There is deliberate and intentional evasion of normal fulfillment of obligation",
                                             "enum3": "",
                                             "enum4": "",
                                             "enum5": "",
@@ -3111,7 +3149,7 @@
                                                     "children": []
                                                 },
                                                 {
-                                                    "name": "Dolo Causante v. Dolo Incidente",
+                                                    "name": "Civil Frauds, Distinguished",
                                                     "url": "",
                                                     "facts": "",
                                                     "issue": "",
@@ -3119,15 +3157,54 @@
                                                     "significance": "",
                                                     "correlation": "",
                                                     "details": "",
-                                                    "enum1": "",
-                                                    "enum2": "",
+                                                    "enum1": "1. Art. 1170 - Fraud/Dolo in the Performance",
+                                                    "enum2": "2. Arts. 1338 & 1344 - Causal Fraud (Dolo Causante or Dolo Incidente)",
                                                     "enum3": "",
                                                     "enum4": "",
                                                     "enum5": "",
                                                     "enum6": "",
                                                     "enum7": "",
                                                     "enum8": "",
-                                                    "children": []
+                                                    "children": [
+                                                        {
+                                                            "name": "Fraud in the Performance",
+                                                            "url": "",
+                                                            "facts": "",
+                                                            "issue": "",
+                                                            "ruling": "",
+                                                            "significance": "",
+                                                            "correlation": "",
+                                                            "details": "",
+                                                            "enum1": "1. Present only in the performance of a pre-existing obligation",
+                                                            "enum2": "2. Purpose is to evade the normal fulfillment of the obligation",
+                                                            "enum3": "3. Results in the non-fulfillment or breach of obligation",
+                                                            "enum4": "4. Gives right to a right of the obligee to recover damages from the debtor and not a cause for the annulment of the contract",
+                                                            "enum5": "5. Valid obligation",
+                                                            "enum6": "",
+                                                            "enum7": "",
+                                                            "enum8": "",
+                                                            "children": []
+                                                        },
+                                                        {
+                                                            "name": "Causal Fraud",
+                                                            "url": "",
+                                                            "facts": "",
+                                                            "issue": "",
+                                                            "ruling": "",
+                                                            "significance": "",
+                                                            "correlation": "",
+                                                            "details": "",
+                                                            "enum1": "1. Present only during the time of birth or perfection of the obligation.",
+                                                            "enum2": "2. Purpose is to secure the consent of the other to enter into a contract.",
+                                                            "enum3": "3. Results in the vitiation of consent.",
+                                                            "enum4": "4. Gives rise to a right of an innocent party to annul the contract.",
+                                                            "enum5": "5. Voidable obligation.",
+                                                            "enum6": "",
+                                                            "enum7": "",
+                                                            "enum8": "",
+                                                            "children": []
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         },
