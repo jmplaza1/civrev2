@@ -2182,7 +2182,27 @@
                             "enum6": "",
                             "enum7": "",
                             "enum8": "",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Provisions",
+                                    "url": "",
+                                    "facts": "",
+                                    "issue": "",
+                                    "ruling": "",
+                                    "significance": "",
+                                    "correlation": "",
+                                    "details": "",
+                                    "enum1": "1159",
+                                    "enum2": "1308",
+                                    "enum3": "1315",
+                                    "enum4": "1356",
+                                    "enum5": "",
+                                    "enum6": "",
+                                    "enum7": "",
+                                    "enum8": "",
+                                    "children": []
+                                    }
+                            ]
                         },
                         {
                             "name": "b. Autonomy",
